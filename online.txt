@@ -1,3 +1,5 @@
 File được tạo trực tiếp trên GitHub.
 Dùng để kiểm tra đồng bộ với local.
 Thực hành Git pull và chỉnh sửa.
+Dòng mới 1: Chỉnh sửa từ local  
+Dòng mới 2: Push lên GitHub
