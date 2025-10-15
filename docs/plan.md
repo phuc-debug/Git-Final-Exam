@@ -9,3 +9,8 @@ Kế hoạch học tập trong 1 tuần:
 
 Ngày bắt đầu: 15/10/2025  
 Ngày kết thúc: 21/10/2025
+
+- Ôn tập Git stash
+- Thực hành lưu thay đổi tạm thời
+- Áp dụng lại stash để commit
+- Hiểu cách quản lý nhiều stash
