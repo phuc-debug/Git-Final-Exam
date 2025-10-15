@@ -1,0 +1,3 @@
+File được tạo trực tiếp trên GitHub.
+Dùng để kiểm tra đồng bộ với local.
+Thực hành Git pull và chỉnh sửa.
