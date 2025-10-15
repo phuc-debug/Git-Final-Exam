@@ -1,0 +1,6 @@
+Tính năng mới:
+- Tự động kiểm tra lỗi cú pháp
+- Gợi ý sửa lỗi trực tiếp
+- Tích hợp CI/CD với GitHub Actions
+- Giao diện người dùng thân thiện
+- Hỗ trợ đa ngôn ngữ
