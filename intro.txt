@@ -1,0 +1,16 @@
+Giới thiệu bản thân:
+Tôi là sinh viên năm 4 ngành Công nghệ thông tin.
+Tôi yêu thích lập trình và khám phá công nghệ mới.
+Tôi đang học Git để quản lý mã nguồn hiệu quả.
+Tôi mong muốn trở thành lập trình viên chuyên nghiệp.
+Tôi thích làm việc nhóm và chia sẻ kiến thức.
+
+Sở thích:
+- Đọc sách
+- Chơi thể thao
+- Du lịch
+
+Kỹ năng:
+- Lập trình Python
+- Sử dụng Git cơ bản
+- Giao tiếp nhóm
