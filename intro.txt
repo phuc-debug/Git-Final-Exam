@@ -1,1 +1,3 @@
 Hello, this is O Vinh Phuc
+Xin chào, tôi là O Vinh Phuc
+Conflict resolved on 15/10/2025
